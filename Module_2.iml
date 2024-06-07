@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Baitap-10-5-2024" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Baitap-8-5-2024" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Module_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DateException" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DemoException" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
